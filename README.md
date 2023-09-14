@@ -32,7 +32,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions or inquiries about Surrealist Storyteller, please contact [your email address].
+For questions or inquiries about Surrealist Storyteller, please contact Josh Urban Davis (www.joshurbandavis.com).
 
 ---
 
